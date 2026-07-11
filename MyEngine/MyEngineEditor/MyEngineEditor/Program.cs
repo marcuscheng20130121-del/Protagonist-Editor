@@ -26,7 +26,7 @@ namespace MyEngineEditor
 
         public EditorForm()
         {
-            this.Text = "protagonist editor";
+            this.Text = "protagonist editor-v0.1.0 alpha1";
             this.Size = new Size(1200, 800);
 
             // 1. 初始化編輯器
