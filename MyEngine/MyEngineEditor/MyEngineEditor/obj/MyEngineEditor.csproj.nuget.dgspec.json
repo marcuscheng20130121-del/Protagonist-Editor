@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\85294\\Desktop\\MyEngine\\MyEngine\\MyEngineEditor\\MyEngineEditor\\MyEngineEditor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\85294\\Desktop\\MyEngine\\MyEngine\\MyEngineEditor\\MyEngineEditor\\MyEngineEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\85294\\Desktop\\MyEngine\\MyEngine\\MyEngineEditor\\MyEngineEditor\\MyEngineEditor.csproj",
+        "projectName": "MyEngineEditor",
+        "projectPath": "C:\\Users\\85294\\Desktop\\MyEngine\\MyEngine\\MyEngineEditor\\MyEngineEditor\\MyEngineEditor.csproj",
+        "packagesPath": "C:\\Users\\85294\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\85294\\Desktop\\MyEngine\\MyEngine\\MyEngineEditor\\MyEngineEditor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\85294\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows": {
+            "framework": "net8.0-windows7.0",
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[4.12.0, )"
+            },
+            "Scintilla.NET": {
+              "target": "Package",
+              "version": "[5.3.2.9, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
