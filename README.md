@@ -16,3 +16,6 @@ Your feedback and bug reports are welcome as I continue to improve the stability
 1. Ensure that the .NET 8.0 SDK is installed.
 2. Run the following command in the terminal: `dotnet build --arch x64`
 3. Run the generated .exe file.
+
+## C#
+This editor is built using C#.
