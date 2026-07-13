@@ -19,3 +19,7 @@ Your feedback and bug reports are welcome as I continue to improve the stability
 
 ## C#
 This editor is built using C#.
+
+## Encountered a bug?
+Go to this webpage:https://forms.gle/GFW2Cw8NU3NbK2YDA and fill out the form.
+Your feedback is important to us!
